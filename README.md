@@ -6,14 +6,15 @@ You are the only DBA in the [JP Morgan](#) company right know, and your manager 
 
 ## Deliverables
 
-  + a github repository named `assignment--mysql-basic-queries` with a `.sql` file containing all answers.
++ a github repository named `assignment--mysql-basic-queries` with a `.sql` file containing all answers.
   
-  ###### Example
+###### Example
   
-  ```sql
-  #1 Write a query to display all names from Products.
-  SELECT Id, Name FROM Products;
-  ```
+```sql
+#1 Write a query to display all names from Products.
+
+SELECT Id, Name FROM Products;
+```
 
 ## Setup Instructions
 
