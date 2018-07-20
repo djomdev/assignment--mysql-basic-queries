@@ -45,6 +45,7 @@ WHERE
 
 # 2 Write a query to display the full name (FIRST_NAME + LAST_NAME) and SALARY for all employees whose salary that is greater than $15,000.
 
+
 # 3 Write a query to display the unique values of JOBS_ID available in the employees table.
 
 
@@ -58,6 +59,7 @@ WHERE
 
 
 # 7 Write a query to display the first name of all employees who have both "b" and "c" in their first name.
+
 
 # 8 Write a query to display the last name of employees whose names have exactly 6 characters.
 
